@@ -1,0 +1,465 @@
+{
+  "The Indonesian Way": [
+    {
+      "word": "selamat",
+      "pos": "noun",
+      "meanings": [],
+      "translations": [
+        "(theology) the act of delivering from sin or saving from evil",
+        "kept safe or defended from danger or injury or loss; \"the most protected spot I could find\"",
+        "free from danger or the risk of harm; \"a safe trip\"; \"you will be safe here\"; \"a safe place\"; \"a safe bet\"",
+        "having reached a base without being put out; \"the runner was called safe when the baseman dropped the ball\"",
+        "free from danger or risk; \"secure from harm\"; \"his fortune was secure\"; \"made a secure place for himself in his field\""
+      ],
+      "glosses": [
+        "(theology) the act of delivering from sin or saving from evil",
+        "kept safe or defended from danger or injury or loss; \"the most protected spot I could find\"",
+        "free from danger or the risk of harm; \"a safe trip\"; \"you will be safe here\"; \"a safe place\"; \"a safe bet\""
+      ],
+      "synonyms": [],
+      "phrases": [],
+      "examples": [
+        {
+          "id": "Selamat pagi, semuanya.",
+          "en": "Good morning, everybody."
+        },
+        {
+          "id": "\"Selamat pagi,\" kata Tom sambil tersenyum.",
+          "en": "\"Good morning\", said Tom with a smile."
+        },
+        {
+          "id": "Selamat tidur, Bu.",
+          "en": "Good night, Mom."
+        }
+      ],
+      "frequency_rank": 1678
+    },
+    {
+      "word": "pagi",
+      "pos": "noun",
+      "meanings": [],
+      "translations": [
+        "the time period between dawn and noon; \"I spent the morning running errands\""
+      ],
+      "glosses": [
+        "the time period between dawn and noon; \"I spent the morning running errands\""
+      ],
+      "synonyms": [],
+      "phrases": [],
+      "examples": [
+        {
+          "id": "Selamat pagi, semuanya.",
+          "en": "Good morning, everybody."
+        },
+        {
+          "id": "\"Selamat pagi,\" kata Tom sambil tersenyum.",
+          "en": "\"Good morning\", said Tom with a smile."
+        },
+        {
+          "id": "Selamat pagi!",
+          "en": "Good morning!"
+        }
+      ],
+      "frequency_rank": 1260
+    },
+    {
+      "word": "siang",
+      "pos": "adjective",
+      "meanings": [],
+      "translations": [
+        "of or belonging to or active during the day; \"diurnal animals are active during the day\"; \"diurnal flowers are open during the day and closed at night\"; \"diurnal and nocturnal offices\"",
+        "light during the daytime",
+        "the time after sunrise and before sunset while it is light outside; \"the dawn turned night into day\"; \"it is easier to make the repairs in the daytime\"",
+        "the middle of the day"
+      ],
+      "glosses": [
+        "of or belonging to or active during the day; \"diurnal animals are active during the day\"; \"diurnal flowers are open during the day and closed at night\"; \"diurnal and nocturnal offices\"",
+        "light during the daytime",
+        "the time after sunrise and before sunset while it is light outside; \"the dawn turned night into day\"; \"it is easier to make the repairs in the daytime\""
+      ],
+      "synonyms": [],
+      "phrases": [],
+      "examples": [
+        {
+          "id": "Dia meninggal dunia kemarin siang.",
+          "en": "She died yesterday afternoon."
+        },
+        {
+          "id": "Kami berangkat besok siang.",
+          "en": "We leave tomorrow afternoon."
+        },
+        {
+          "id": "Ayo makan siang!",
+          "en": "Let's have lunch!"
+        }
+      ],
+      "frequency_rank": 2376
+    },
+    {
+      "word": "sore",
+      "pos": "noun",
+      "meanings": [],
+      "translations": [
+        "an open skin infection",
+        "the part of the day between noon and evening; \"he spent a quiet afternoon in the park\""
+      ],
+      "glosses": [
+        "an open skin infection",
+        "the part of the day between noon and evening; \"he spent a quiet afternoon in the park\""
+      ],
+      "synonyms": [],
+      "phrases": [],
+      "examples": [
+        {
+          "id": "Apa Joe bersamamu kemarin sore?",
+          "en": "Was Joe with you yesterday evening?"
+        },
+        {
+          "id": "Selamat sore!",
+          "en": "Good evening!"
+        },
+        {
+          "id": "Sore ini sangat dingin.",
+          "en": "It's very cold this evening."
+        }
+      ],
+      "frequency_rank": 3959
+    },
+    {
+      "word": "malam",
+      "pos": "adjective",
+      "meanings": [],
+      "translations": [
+        "belonging to or active during the night; \"nocturnal animals are active at night\"; \"nocturnal plants have flowers that open at night and close by day\"",
+        "of or relating to or occurring in the night; \"nocturnal darkness\"",
+        "darkness; \"it vanished into the night\"",
+        "any of various substances of either mineral origin or plant or animal origin; they are solid at normal temperatures and insoluble in water",
+        "the dark part of the diurnal cycle considered a time unit; \"three nights later he collapsed\""
+      ],
+      "glosses": [
+        "belonging to or active during the night; \"nocturnal animals are active at night\"; \"nocturnal plants have flowers that open at night and close by day\"",
+        "of or relating to or occurring in the night; \"nocturnal darkness\"",
+        "darkness; \"it vanished into the night\""
+      ],
+      "synonyms": [],
+      "phrases": [],
+      "examples": [
+        {
+          "id": "Saya mulai malam ini.",
+          "en": "I will start tonight."
+        },
+        {
+          "id": "Saya dengar bahwa belajar di pagi hari lebih efektif. Belajar satu jam di pagi hari sama baiknya dengan belajar tiga jam di malam hari.",
+          "en": "I hear that studying in the morning is more effective. Studying one hour in the morning is as good as three hours at night."
+        },
+        {
+          "id": "Malam ini kemungkinan akan turun hujan.",
+          "en": "Tonight, there is a possibility that it will rain."
+        }
+      ],
+      "frequency_rank": 600
+    },
+    {
+      "word": "saya",
+      "pos": "pronoun",
+      "meanings": [],
+      "translations": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "glosses": [
+        "first person singular pronoun (formal)"
+      ],
+      "synonyms": [],
+      "phrases": [],
+      "examples": [
+        {
+          "id": "Saya tahu dia tidak dapat bekerja lagi.",
+          "en": "I know that he can no longer work."
+        },
+        {
+          "id": "Saya tak ingin tertinggal pesawat.",
+          "en": "I don't want to miss the plane."
+        },
+        {
+          "id": "Ini adalah pertama kali saya naik pesawat.",
+          "en": "That was the first time I got on a plane."
+        }
+      ],
+      "frequency_rank": 952
+    },
+    {
+      "word": "siapa",
+      "pos": "pronoun",
+      "meanings": [],
+      "translations": [
+        "who",
+        "whom"
+      ],
+      "glosses": [
+        "interrogative pronoun asking about a person"
+      ],
+      "synonyms": [],
+      "phrases": [],
+      "examples": [
+        {
+          "id": "Pulau itu ditemukan oleh siapa?",
+          "en": "By whom was the island discovered?"
+        },
+        {
+          "id": "Siapa yang merusak ini?",
+          "en": "Who broke this?"
+        },
+        {
+          "id": "Siapa nama Anda?",
+          "en": "What is your name?"
+        }
+      ],
+      "frequency_rank": 1650
+    },
+    {
+      "word": "nama",
+      "pos": "noun",
+      "meanings": [],
+      "translations": [
+        "name"
+      ],
+      "glosses": [
+        "identifier for a person or thing"
+      ],
+      "synonyms": [],
+      "phrases": [],
+      "examples": [
+        {
+          "id": "Yang perlu Anda lakukan hanyalah menandatangani nama Anda di sini.",
+          "en": "All you have to do is sign your name here."
+        },
+        {
+          "id": "Nama saya Jack.",
+          "en": "My name is Jack."
+        },
+        {
+          "id": "Siapa nama Anda?",
+          "en": "What is your name?"
+        }
+      ],
+      "frequency_rank": 47
+    },
+    {
+      "word": "anda",
+      "pos": "pronoun",
+      "meanings": [],
+      "translations": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "glosses": [
+        "second person singular/plural pronoun (formal)"
+      ],
+      "synonyms": [],
+      "phrases": [],
+      "examples": [
+        {
+          "id": "Anda jujur mengakui kesalahan Anda",
+          "en": "You are honest to admit your mistake."
+        },
+        {
+          "id": "Yang perlu Anda lakukan hanyalah menandatangani nama Anda di sini.",
+          "en": "All you have to do is sign your name here."
+        },
+        {
+          "id": "Siapa nama Anda?",
+          "en": "What is your name?"
+        }
+      ],
+      "frequency_rank": 1342
+    },
+    {
+      "word": "silakan",
+      "pos": "adverb",
+      "meanings": [],
+      "translations": [
+        "used in polite request; \"please pay attention\""
+      ],
+      "glosses": [
+        "used in polite request; \"please pay attention\""
+      ],
+      "synonyms": [],
+      "phrases": [],
+      "examples": [
+        {
+          "id": "Silakan menunggu di ruang tunggu.",
+          "en": "Please wait in the waiting room."
+        },
+        {
+          "id": "Nama anda, silakan.",
+          "en": "Your name, please."
+        },
+        {
+          "id": "Jika Anda mencari informasi tentang pergerakan Esperanto di Indonesia, silakan kunjungi halaman webnya.",
+          "en": "If you're seeking information about the Esperanto movement in Indonesia, please visit the webpage."
+        }
+      ],
+      "frequency_rank": null
+    },
+    {
+      "word": "masuk",
+      "pos": "adverb",
+      "meanings": [],
+      "translations": [
+        "toward the center or interior; \"move the needle further inwards!\"",
+        "change religious beliefs, or adopt a religious belief; \"She converted to Buddhism\"",
+        "become a participant; be involved in; \"enter a race\"; \"enter an agreement\"; \"enter a drug treatment program\"; \"enter negotiations\"",
+        "join the military",
+        "engage somebody to enter the army"
+      ],
+      "glosses": [
+        "toward the center or interior; \"move the needle further inwards!\"",
+        "change religious beliefs, or adopt a religious belief; \"She converted to Buddhism\"",
+        "become a participant; be involved in; \"enter a race\"; \"enter an agreement\"; \"enter a drug treatment program\"; \"enter negotiations\""
+      ],
+      "synonyms": [],
+      "phrases": [],
+      "examples": [
+        {
+          "id": "Baju itu memikat hatinya untuk masuk ke dalam toko",
+          "en": "The dress lured her into the store."
+        },
+        {
+          "id": "Bis itu berhenti dan kami masuk",
+          "en": "The bus stopped and we got on."
+        },
+        {
+          "id": "Dia gugup sebelum ujian masuk.",
+          "en": "She was nervous before the entrance exam."
+        }
+      ],
+      "frequency_rank": 325
+    },
+    {
+      "word": "memperkenalkan",
+      "pos": "verb",
+      "meanings": [],
+      "translations": [
+        "introduce; \"Insert your ticket here\"",
+        "be a precursor of; \"The fall of the Berlin Wall ushered in the post-Cold War period\"",
+        "put before (a body); \"introduce legislation\"",
+        "bring forward and present to the mind; \"We presented the arguments to him\"; \"We cannot represent this knowledge to our formal reason\"",
+        "cause to come to know personally; \"permit me to acquaint you with my son\"; \"introduce the new neighbors to the community\""
+      ],
+      "glosses": [
+        "introduce; \"Insert your ticket here\"",
+        "be a precursor of; \"The fall of the Berlin Wall ushered in the post-Cold War period\"",
+        "put before (a body); \"introduce legislation\""
+      ],
+      "synonyms": [],
+      "phrases": [],
+      "examples": [
+        {
+          "id": "Pewawancara memperkenalkan topik dari wawancara.",
+          "en": "The interviewer introduces the topic of the interview."
+        },
+        {
+          "id": "Bisakah kau memperkenalkan dirimu sedikit?",
+          "en": "Can you introduce yourself in a few words?"
+        },
+        {
+          "id": "Pedagang Muslim dari Arab memperkenalkan Islam ke Malaysia dan Indonesia.",
+          "en": "Muslim traders from Arabia introduced Islam to Malaysia and Indonesia."
+        }
+      ],
+      "frequency_rank": 2294
+    },
+    {
+      "word": "terima kasih",
+      "pos": "verb",
+      "meanings": [],
+      "translations": [
+        "express gratitude or show appreciation to",
+        "with the help of or owing to; \"thanks to hard work it was a great success\"",
+        "an acknowledgment of appreciation",
+        "a conversational expression of gratitude"
+      ],
+      "glosses": [
+        "express gratitude or show appreciation to",
+        "with the help of or owing to; \"thanks to hard work it was a great success\"",
+        "an acknowledgment of appreciation"
+      ],
+      "synonyms": [],
+      "phrases": [],
+      "examples": [],
+      "frequency_rank": null
+    },
+    {
+      "word": "minum",
+      "pos": "noun",
+      "meanings": [],
+      "translations": [
+        "the act of drinking alcoholic beverages to excess; \"drink was his downfall\"",
+        "serve oneself to, or consume regularly; \"Have another bowl of chicken soup!\"; \"I don't take sugar in my coffee\"",
+        "take in liquids; \"The patient must drink several liters each day\"; \"The children like to drink soda\"",
+        "consume alcohol; \"We were up drinking all night\"",
+        "drink excessive amounts of alcohol; be an alcoholic; \"The husband drinks and beats his wife\""
+      ],
+      "glosses": [
+        "the act of drinking alcoholic beverages to excess; \"drink was his downfall\"",
+        "serve oneself to, or consume regularly; \"Have another bowl of chicken soup!\"; \"I don't take sugar in my coffee\"",
+        "take in liquids; \"The patient must drink several liters each day\"; \"The children like to drink soda\""
+      ],
+      "synonyms": [],
+      "phrases": [],
+      "examples": [
+        {
+          "id": "Aku ingin minum kopi.",
+          "en": "I would like to have a cup of coffee."
+        },
+        {
+          "id": "Ingin minum kopi?",
+          "en": "Do you want some coffee?"
+        },
+        {
+          "id": "Kurangi minum dan tidurlah lebih banyak.",
+          "en": "Drink less and sleep more."
+        }
+      ],
+      "frequency_rank": 2730
+    },
+    {
+      "word": "makan",
+      "pos": "noun",
+      "meanings": [],
+      "translations": [
+        "any substance that can be metabolized by an animal to give energy and build tissue",
+        "be stricken by an illness, fall victim to an illness; \"He got AIDS\"; \"She came down with pneumonia\"; \"She took a chill\"",
+        "remove something concrete, as by lifting, pushing, or taking off, or remove something abstract; \"remove a threat\"; \"remove a wrapper\"; \"Remove the dirty dishes from the table\"; \"take the gun from your pocket\"; \"This machine withdraws heat from the environment\"",
+        "remove soil or rock; \"Rain eroded the terraces\"",
+        "commence in a manner calculated to bring good luck; \"They auspicated the trip with a bottle of champagne\""
+      ],
+      "glosses": [
+        "any substance that can be metabolized by an animal to give energy and build tissue",
+        "be stricken by an illness, fall victim to an illness; \"He got AIDS\"; \"She came down with pneumonia\"; \"She took a chill\"",
+        "remove something concrete, as by lifting, pushing, or taking off, or remove something abstract; \"remove a threat\"; \"remove a wrapper\"; \"Remove the dirty dishes from the table\"; \"take the gun from your pocket\"; \"This machine withdraws heat from the environment\""
+      ],
+      "synonyms": [],
+      "phrases": [],
+      "examples": [
+        {
+          "id": "Ayahnya makan di sana dua kali seminggu.",
+          "en": "His father eats there twice a week."
+        },
+        {
+          "id": "Ayo makan siang!",
+          "en": "Let's have lunch!"
+        },
+        {
+          "id": "Saya makan hot dog untuk makan siang.",
+          "en": "I ate a hot dog for lunch."
+        }
+      ],
+      "frequency_rank": 1057
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "The Indonesian Way::siapa": {
+    "collection": "The Indonesian Way",
+    "word": "siapa",
+    "due_date": "2026-06-15",
+    "interval": 1,
+    "ease_factor": 2.5,
+    "reps": 0,
+    "review_history": [
+      {
+        "date": "2026-06-14",
+        "rating": 0
+      }
+    ],
+    "introduced": "2026-06-14"
+  },
+  "The Indonesian Way::nama": {
+    "collection": "The Indonesian Way",
+    "word": "nama",
+    "due_date": "2026-06-15",
+    "interval": 1,
+    "ease_factor": 2.36,
+    "reps": 1,
+    "review_history": [
+      {
+        "date": "2026-06-14",
+        "rating": 1
+      }
+    ],
+    "introduced": "2026-06-14"
+  },
+  "The Indonesian Way::anda": {
+    "collection": "The Indonesian Way",
+    "word": "anda",
+    "due_date": "2026-06-15",
+    "interval": 1,
+    "ease_factor": 2.5,
+    "reps": 1,
+    "review_history": [
+      {
+        "date": "2026-06-14",
+        "rating": 2
+      }
+    ],
+    "introduced": "2026-06-14"
+  },
+  "The Indonesian Way::silakan": {
+    "collection": "The Indonesian Way",
+    "word": "silakan",
+    "due_date": "2026-06-15",
+    "interval": 1,
+    "ease_factor": 2.5,
+    "reps": 0,
+    "review_history": [
+      {
+        "date": "2026-06-14",
+        "rating": 0
+      }
+    ],
+    "introduced": "2026-06-14"
+  },
+  "The Indonesian Way::masuk": {
+    "collection": "The Indonesian Way",
+    "word": "masuk",
+    "due_date": "2026-06-15",
+    "interval": 1,
+    "ease_factor": 2.6,
+    "reps": 1,
+    "review_history": [
+      {
+        "date": "2026-06-14",
+        "rating": 3
+      }
+    ],
+    "introduced": "2026-06-14"
+  },
+  "The Indonesian Way::memperkenalkan": {
+    "collection": "The Indonesian Way",
+    "word": "memperkenalkan",
+    "due_date": "2026-06-15",
+    "interval": 1,
+    "ease_factor": 2.5,
+    "reps": 0,
+    "review_history": [
+      {
+        "date": "2026-06-14",
+        "rating": 0
+      }
+    ],
+    "introduced": "2026-06-14"
+  },
+  "The Indonesian Way::terima kasih": {
+    "collection": "The Indonesian Way",
+    "word": "terima kasih",
+    "due_date": "2026-06-15",
+    "interval": 1,
+    "ease_factor": 2.5,
+    "reps": 1,
+    "review_history": [
+      {
+        "date": "2026-06-14",
+        "rating": 2
+      }
+    ],
+    "introduced": "2026-06-14"
+  },
+  "The Indonesian Way::minum": {
+    "collection": "The Indonesian Way",
+    "word": "minum",
+    "due_date": "2026-06-15",
+    "interval": 1,
+    "ease_factor": 2.5,
+    "reps": 0,
+    "review_history": [
+      {
+        "date": "2026-06-14",
+        "rating": 0
+      }
+    ],
+    "introduced": "2026-06-14"
+  },
+  "The Indonesian Way::makan": {
+    "collection": "The Indonesian Way",
+    "word": "makan",
+    "due_date": "2026-06-15",
+    "interval": 1,
+    "ease_factor": 2.5,
+    "reps": 0,
+    "review_history": [
+      {
+        "date": "2026-06-14",
+        "rating": 0
+      }
+    ],
+    "introduced": "2026-06-14"
+  }
+}
