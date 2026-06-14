@@ -138,7 +138,7 @@ def build_ico(sizes: list[int]) -> bytes:
 
 
 def main():
-    sizes = [16, 32, 48]
+    sizes = [16, 32, 48, 256]
 
     # Validate grids
     for sz in sizes:

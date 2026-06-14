@@ -10,6 +10,7 @@ a = Analysis(
         ('data/en_id.json', 'data'),
         ('data/frequency.json', 'data'),
         ('data/examples.json', 'data'),
+        ('icon.ico', '.'),
     ],
     hiddenimports=[
         'PySide6.QtCore',

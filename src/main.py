@@ -10,8 +10,10 @@ Usage: python -m src.main
 """
 
 import sys
+from pathlib import Path
 
 from PySide6.QtWidgets import QApplication, QMessageBox
+from PySide6.QtGui import QIcon
 
 from src.dictionary import DictionaryManager
 from src.collection import CollectionManager
@@ -50,6 +52,14 @@ def main():
     # Load collections and SRS
     collection_mgr = CollectionManager()
     srs_mgr = SrsManager()
+
+    # Set application icon
+    if getattr(sys, "frozen", False) and hasattr(sys, "_MEIPASS"):
+        icon_path = Path(sys._MEIPASS) / "icon.ico"
+    else:
+        icon_path = Path(__file__).resolve().parent.parent / "icon.ico"
+    if icon_path.exists():
+        app.setWindowIcon(QIcon(str(icon_path)))
 
     # Show main window
     window = MainWindow(dict_manager, collection_mgr, srs_mgr)
