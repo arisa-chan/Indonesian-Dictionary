@@ -112,11 +112,10 @@ def build_ico(sizes: list[int]) -> bytes:
         pixel_size = len(pixel_data)
 
         # DIB header: BITMAPINFOHEADER with doubled height (ICO format)
-        # BITMAPINFOHEADER is 40 bytes, BMP file header is 14 bytes
-        bmp = b"BM"
-        bmp += struct.pack("<I", 14 + 40 + pixel_size)  # file size
-        bmp += struct.pack("<HHI", 0, 0, 14 + 40)        # reserved, reserved, data offset
-        # DIB header (40 bytes)
+        mask_row_bytes = ((sz + 31) // 32) * 4
+        mask_data = bytes(mask_row_bytes * sz)
+
+        bmp = bytearray()
         bmp += struct.pack("<I", 40)                      # header size
         bmp += struct.pack("<ii", sz, sz * 2)             # width, height*2 (ICO format)
         bmp += struct.pack("<H", 1)                       # planes
@@ -127,7 +126,8 @@ def build_ico(sizes: list[int]) -> bytes:
         bmp += struct.pack("<II", 0, 0)                   # colors used, colors important
 
         bmp += pixel_data
-        images.append(bmp)
+        bmp += mask_data
+        images.append(bytes(bmp))
         img_sz = len(bmp)
 
         entry = struct.pack("<BBBBHHII", sz if sz < 256 else 0, sz if sz < 256 else 0, 0, 0, 1, 32, img_sz, offset)

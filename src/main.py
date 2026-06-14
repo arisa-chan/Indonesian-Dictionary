@@ -53,16 +53,21 @@ def main():
     collection_mgr = CollectionManager()
     srs_mgr = SrsManager()
 
-    # Set application icon
+    # Set application and window icon
     if getattr(sys, "frozen", False) and hasattr(sys, "_MEIPASS"):
         icon_path = Path(sys._MEIPASS) / "icon.ico"
     else:
         icon_path = Path(__file__).resolve().parent.parent / "icon.ico"
+    icon = None
     if icon_path.exists():
-        app.setWindowIcon(QIcon(str(icon_path)))
+        icon = QIcon(str(icon_path))
+        if not icon.isNull():
+            app.setWindowIcon(icon)
 
     # Show main window
     window = MainWindow(dict_manager, collection_mgr, srs_mgr)
+    if icon and not icon.isNull():
+        window.setWindowIcon(icon)
     window.show()
 
     sys.exit(app.exec())
